@@ -1,6 +1,6 @@
-# my-vue-app
+# DentaTeamOffice
 
-> A Vue.js project
+> A Vue.js project Using CRUD sqlite 
 
 ## Build Setup
 
@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# run client - serve with hot reload at localhost:8080
 npm run dev
 
 # build for production with minification
@@ -23,5 +23,7 @@ npm run unit
 # run all tests
 npm test
 ```
+# run server
+node ./src/server
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
